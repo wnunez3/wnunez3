@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">My name is Wirving Nunez, and I am currently a senior at Arizona State University pursuing a bachelor's degree in Graphic Design. I truly enjoy front-end design and development, and I can't wait to share my projects with you! <br><br>- 🔭 I’m working as a Shift Supervisor at Starbucks while going to school.<br>- 📚 I'm currently learning HTML,CSS, JavaScript<br>- ⚡ In my free time, I enjoy going out with my camera and capturing little moments in time.</p>
+<p align="left">My name is Wirving Nunez, and I am currently a senior at Arizona State University pursuing a bachelor's degree in Graphic Design. I truly enjoy front-end design and development, and I can't wait to share my projects with you! <br><br>- 🔭 I’m working as a Shift Supervisor at Starbucks while I attend school.<br>- 📚 I'm currently learning HTML, CSS, JavaScript<br>- ⚡ In my free time, I enjoy going out with my camera and capturing little moments in time.</p>
 
 ###
 
